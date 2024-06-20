@@ -22,14 +22,14 @@ Visit -  https://spyno-video-captioning.vercel.app/
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/video-captioning-web-app.git
-    cd video-captioning-web-app
+    git clone https://github.com/ranjangupta4590/Spyno-Video-Captioning.git
+    cd spyno
     ```
 
 2. Install the dependencies:
 
     ```bash
-    npm install
+    npm install  or npm i
     ```
 
 3. Start the development server:
