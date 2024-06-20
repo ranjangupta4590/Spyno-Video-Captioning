@@ -1,0 +1,16 @@
+/* App.css */
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.caption-overlay {
+  position: absolute;
+  bottom: 50px;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+}
